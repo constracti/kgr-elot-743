@@ -3,7 +3,7 @@
 if ( !defined( 'ABSPATH' ) )
 	exit;
 
-function kgr_elot743( $in ) {
+function kgr_elot_743( string $in ): string {
 	$diph_aei = ['α', 'ε', 'η'];
 	$diph_yps = ['υ', 'ύ'];
 	$diph_vita = [
