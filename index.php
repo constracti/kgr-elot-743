@@ -17,6 +17,7 @@ if ( !defined( 'ABSPATH' ) )
 	exit;
 
 define( 'KGR_ELOT_743_DIR', plugin_dir_path( __FILE__ ) );
+define( 'KGR_ELOT_743_URL', plugin_dir_url( __FILE__ ) );
 
 require_once( KGR_ELOT_743_DIR . 'elot743.php' );
 
