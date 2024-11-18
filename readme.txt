@@ -2,7 +2,7 @@
 Contributors: constracti
 Tags: greek, greeklish, slugs, elot 743, iso 843
 Requires at least: 2.8.0
-Tested up to: 6.0
+Tested up to: 6.7
 Stable tag: 1.1
 Requires PHP: 7.0
 License: GPLv3
